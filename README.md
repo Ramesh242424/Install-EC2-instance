@@ -18,6 +18,7 @@ Use AWS CLI
 Install AWS CLI using pip install awscli or download from AWS.
 Configure AWS CLI using aws configure.
 Practice with AWS Documentation
+![image](https://github.com/user-attachments/assets/7414c2cd-5321-4101-b09f-606a3e583e5c)
 
 Visit the AWS Documentation for hands-on learning.
 2. Create & Manage Amazon EC2 Instances
@@ -52,6 +53,7 @@ Connect to the Instance
 Open Terminal/Command Prompt.
 Run ssh -i your-key.pem ec2-user@your-instance-ip.
 Result:
+![image](https://github.com/user-attachments/assets/bab71d15-5470-4d98-9faa-e6064fc45a50)
 
 Successfully launched and connected to an EC2 instance.
 3. Install OpenStack
@@ -99,5 +101,7 @@ Launch OpenStack Dashboard
 Access Horizon Dashboard using http://<your-server-ip>/dashboard.
 Log in with admin credentials.
 Result:
+![image](https://github.com/user-attachments/assets/f8139263-466c-4e63-ac25-69a82b075b4d)
+![image](https://github.com/user-attachments/assets/49032f79-a064-4897-ab30-76de04d3019e)
 
 Successfully installed OpenStack and accessed the Horizon Dashboard.
